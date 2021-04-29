@@ -1,0 +1,28 @@
+.btn-treehouse {
+  border-radius: 4px;
+  padding: 16px 32px;
+  font-size: 20px;
+  color: white;
+  background-color: rgb(106, 213, 139);
+  font-weight: bolder;
+}
+
+.btn-treehouse:hover {
+  background-color: rgb(78, 194, 115);
+}
+
+
+.btn-blue {
+  border-radius: 4px;
+  padding: 16px 32px;
+  font-size: 20px;
+  color: white;
+  background-color: rgb(81, 120, 190);
+  font-weight: bolder;
+}
+
+.btn-blue:hover {
+  background-color: rgb(34, 80, 165);
+}
+
+

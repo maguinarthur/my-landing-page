@@ -1,0 +1,16 @@
+.footer {
+  margin-top: 100px;
+  background-color: #8AA8A1;
+  padding: 20px;
+}
+
+.footer a {
+  font-size: 40px;
+  margin: 20px;
+  color: rgb(27, 90, 209);
+}
+
+.footer p {
+  font-weight: bolder;
+}
+
